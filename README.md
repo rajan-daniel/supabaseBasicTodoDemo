@@ -34,7 +34,7 @@ This project was built to understand:
 - State management with React hooks
 - Syncing UI with backend changes
 - Handling async API calls in React
-
+- Real SQL querying concepts, through JavaScript interface.
 ---
 
 ## 🗄️ Database Structure
